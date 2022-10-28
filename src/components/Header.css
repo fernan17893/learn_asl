@@ -1,0 +1,45 @@
+.HeaderItems {
+    height: 10px;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+
+.Navbar{
+   color: aliceblue;;
+    list-style: none;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+    border-top: 15rem;
+    
+
+}
+
+.flash {
+    color: #000;
+    text-align: center;
+    list-style: none;
+}
+
+.flashletters, 
+.aboutletters,
+.ALSletters{
+    color: aliceblue;
+    text-decoration: none;
+    justify-content: end;
+    gap: 2rem;
+    padding: 0 1rem;
+    text-align: right;
+    font-size:x-large;
+    margin: 0;
+    box-sizing: border-box;
+
+    
+}
+
+.aboutletters:hover,
+.flashletters:hover,
+.ALSletters:hover {
+    background-color: grey;
+    
+}

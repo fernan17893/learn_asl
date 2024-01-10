@@ -20,7 +20,7 @@ The home page section contains various routes that can send you to our features.
 Flashcard grid with pictures of hand signs once you click on them the answer is on the flip side of the card. We also have 
 the What is ASL section with a background on what ASL is.
 
-Project Link: ![ASL_Learning](https://asl-learning.pages.dev/)
+Project Link: [ASL_Learning](https://asl-learning.pages.dev/)
 
 ## Contributing
 
